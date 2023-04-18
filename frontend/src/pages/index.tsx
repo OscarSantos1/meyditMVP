@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Meyd.it - Home</title>
       </Head>
-      <main className="flex h-screen flex-col items-center justify-between p-24 pt-36">
+      <main className="flex h-screen flex-col items-center justify-between p-9 sm:p-24 sm:pt-32 pt-36">
         <WelcomeCard />
       </main>
     </>
